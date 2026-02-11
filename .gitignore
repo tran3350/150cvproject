@@ -1,0 +1,33 @@
+# data + outputs
+data/
+outputs/
+runs/
+checkpoints/
+
+# large files
+*.mp4
+*.avi
+*.mov
+*.pt
+*.pth
+*.onnx
+*.npz
+*.npy
+
+# python junk
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# editors
+.vscode/
+.idea/
+
+data/raw_videos/
+data/windows/
+models/
+*.mp4
+*.pt
+*.npz
+*.npy
